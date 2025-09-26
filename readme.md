@@ -101,13 +101,10 @@ Below is the joint recall experiment result reported in our paper:
 If you find this codebase useful, please cite:
 
 ```
-@misc{zhan2025overcoming,
-  title = {Overcoming Long-Context Limitations of State-Space Models via Context-Dependent Sparse Attention},
-  author = {Zhan, Zhihao and Zhao, Jianan and Zhu, Zhaocheng and Tang, Jian},
-  year = {2025},
-  eprint = {2507.00449},
-  archivePrefix = {arXiv},
-  primaryClass = {cs.LG},
-  url = {https://arxiv.org/abs/2507.00449}
+@inproceedings{zhan2025overcoming,
+  title={Overcoming Long-Context Limitations of State-Space Models via Context-Dependent Sparse Attention},
+  author={Zhan, Zhihao and Zhao, Jianan and Zhu, Zhaocheng and Tang, Jian},
+  booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
+  year={2025}
 }
 ```
